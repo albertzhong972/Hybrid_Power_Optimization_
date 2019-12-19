@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-10T16:55:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "pic32"
+        },
+        "Owner": "Albert Zhong <albertzong@tamu.edu>",
+        "Size": {
+            "X": 81.26,
+            "Y": 64.44
+        }
+    }
+}

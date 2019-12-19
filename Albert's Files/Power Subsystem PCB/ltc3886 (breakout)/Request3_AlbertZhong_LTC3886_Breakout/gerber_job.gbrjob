@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-07T22:48:59Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.64,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ltc3886_breakout_circuit"
+        },
+        "Owner": "Albert Zhong <albertzong@tamu.edu>",
+        "Size": {
+            "X": 78.72,
+            "Y": 63.17
+        }
+    }
+}
